@@ -1,0 +1,22 @@
+{
+  "name": "yolov",
+  "version": "1.0.0",
+  "description": "inntegrate yolo with outsystems using ios cordova plugin",
+  "main": "yolov.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviRSP/Yolov5TestDemo.git"
+  },
+  "keywords": [
+    "yolo"
+  ],
+  "author": "Ravindra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviRSP/Yolov5TestDemo/issues"
+  },
+  "homepage": "https://github.com/RaviRSP/Yolov5TestDemo#readme"
+}
